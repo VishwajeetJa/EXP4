@@ -1,6 +1,6 @@
 text = input("Enter string: ")
 
 if text == text[::-1]:
-    print("Palindrome")
+    print("String is Palindrome")
 else:
     print("Not Palindrome")
